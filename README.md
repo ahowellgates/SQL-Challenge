@@ -89,6 +89,7 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 <img width="1268" alt="Epilogue Snippet" src="https://user-images.githubusercontent.com/45700182/129626148-44578917-2479-4a7f-939f-ab5846ae475b.png">
 
 
+
 ## Submission
 
 * Create an image file of your ERD.
@@ -103,11 +104,13 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 
 * Ensure your repository has regular commits and a thorough README.md file
 
+
 ## Rubric
 
 [Unit 9 Rubric - SQL Homework - Employee Database: A Mystery in Two Parts](https://docs.google.com/document/d/1OksnTYNCT0v0E-VkhIMJ9-iG0_oXNwCZAJlKV0aVMKQ/edit?usp=sharing)
 
 - - -
+
 
 ## References
 
