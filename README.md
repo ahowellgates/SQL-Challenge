@@ -1,4 +1,4 @@
-# SQL Challenge - Employee Database: A Mystery in Two Parts
+# Ashley Gates SQL Challenge - Employee Database: A Mystery in Two Parts
 
 
 
